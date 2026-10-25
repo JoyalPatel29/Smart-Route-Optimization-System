@@ -1,0 +1,6 @@
+{
+  "name": "Smart Route Optimization System",
+  "description": "A college DAA project implementing and benchmarking Dijkstra, Floyd-Warshall, and A* shortest-path algorithms from scratch with interactive graph visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
